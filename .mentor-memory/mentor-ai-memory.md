@@ -7,7 +7,7 @@
 
 ---
 
-## 🛑 Mentorship & Interaction Rules (UPDATED)
+## 🛑 Mentorship & Interaction Rules
 - **The "Ingredient-Only" Policy:** The AI mentor is strictly forbidden from providing copy-paste code blocks for the user's core portfolio files. 
 - **Workflow:** The mentor will provide the *ingredients* (HTML elements, CSS properties, architectural logic) and the *goal*. The user is responsible for discovering the syntax, building the structure, and writing the actual code.
 - **Intervention:** If the user gets stuck, the mentor will only provide architectural hints or diagnostic feedback, never the direct answer. 
@@ -21,30 +21,33 @@
 
 ## 🏗 Phase 2: Building the UI (Month 2)
 ### Module 1: The SaaS Hero Section
-- Lesson 1: Structural Layout (Two-Column Flexbox)
+- Lesson 1: Structural Layout (Two-Column Flexbox) ✅
+- Lesson 2: Typography & Visual Hierarchy ✅
+- Lesson 3: Images & Constraints ✅
 - Status: Completed ✅
-- Lesson 2: Typography & Visual Hierarchy
-- Status: In Progress ⏳
-- Activity: Build the Portfolio Hero Section
 
 ### Module 2: The Project Grid
-- Status: Not Started
+- Lesson 1: Introduction to CSS Grid (2D Layouts) ✅
+- Lesson 2: Component Architecture & Typography ✅
+- Lesson 3: Responsive Design (Media Queries) ✅
+- Status: Completed ✅
 
 ### Module 3: The Contact Form
-- Status: Not Started
+- Lesson 1: Form Inputs & HTML Architecture
+- Status: Not Started (Next Up)
 
 ---
 
 ## Current Focus
 - Phase: 2
-- Module: 1
-- Lesson: 2 (Typography & Visual Hierarchy)
-- Activity: Styling the Hero text and button using the "Ingredient-Only" rule.
+- Module: 3
+- Lesson: 1 (The Contact Form)
+- Activity: Paused for the day. Next session will begin with drafting the HTML form architecture.
 - Confidence Level (1-10): 10 
-- Last Updated: 2026-02-16
+- Last Updated: 2026-02-17
 
 ---
 
 ## Portfolio Progress
 - Feature: Project 1 - Professional Portfolio Website (SaaS Style) 
-- Status: Local environment and GitHub repo active. Navigation bar completed. Hero section HTML architecture and Flexbox layout completed. Ready for typographic styling.
+- Status: Navigation, Hero Section, and Project Grid are fully built, styled, and mobile-responsive!
