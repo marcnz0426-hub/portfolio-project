@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: sans-serif
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #111111;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.main-nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    gap: 20px;
+}
