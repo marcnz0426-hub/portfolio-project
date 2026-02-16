@@ -17,3 +17,10 @@ body {
     padding: 0;
     gap: 20px;
 }
+
+.hero {
+    display: flex;
+    align-items: center;
+    padding: 100px 50px;
+    justify-content: space-between;
+}
