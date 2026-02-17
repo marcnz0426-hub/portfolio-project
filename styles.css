@@ -6,7 +6,7 @@ body {
 .main-nav {
     display: flex;
     justify-content: space-between;
-    background-color: #111111;
+    background-color: #070F2B;
     color: #ffffff;
     padding: 20px;
 }
@@ -28,7 +28,7 @@ body {
 .hero-content h1{
     font-size: 48px;
     margin-bottom: 0;
-    color: #111111
+    color: #070F2B
 }
 
 .hero-content p {
@@ -40,7 +40,7 @@ body {
 
 .hero-content button {
     padding: 10px 20px;
-    background-color: #1b1f58;
+    background-color: #1B1A55;
     color: #ffffff;
     border: none;
     border-radius: 50px;
@@ -68,7 +68,7 @@ body {
     text-align: center;
     margin-top: 50px;
     margin-bottom: 30px;
-    color: #111111
+    color: #070F2B
 }
 
 .project-grid {
@@ -78,7 +78,7 @@ body {
 }
 
 .project-card {
-    background-color: #868a8f;
+    background-color: #535C91;
     padding: 20px;
     border-radius: 16px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
@@ -92,17 +92,17 @@ body {
 .project-card h3 {
     margin-top: 16px;
     margin-bottom: 8px;
-    color: #111111
+    color: #070F2B
 }
 
 .project-card p {
-    color: #555555;
+    color: #9290C3;
     line-height: 1.5;
     margin-bottom: 16px;
 }
 
 .project-card a {
-    color: #1b1f58;
+    color: #1B1A55;
     text-decoration: none;
     font-weight: bold;
 }
