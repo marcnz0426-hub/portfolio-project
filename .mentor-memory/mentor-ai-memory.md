@@ -9,45 +9,38 @@
 
 ## 🛑 Mentorship & Interaction Rules
 - **The "Ingredient-Only" Policy:** The AI mentor is strictly forbidden from providing copy-paste code blocks for the user's core portfolio files. 
-- **Workflow:** The mentor will provide the *ingredients* (HTML elements, CSS properties, architectural logic) and the *goal*. The user is responsible for discovering the syntax, building the structure, and writing the actual code.
-- **Intervention:** If the user gets stuck, the mentor will only provide architectural hints or diagnostic feedback, never the direct answer. 
+- **The "Sprint Ticket" Protocol:** Before moving to a new Phase, the mentor will assign a real-world production task (Ticket). NO code hints, HTML elements, or CSS properties will be given. The user must research, problem-solve, and build the feature independently. The mentor will then conduct a professional "Code Review" to refine the architecture.
 
 ---
 
 # Curriculum Blueprint
 
-## 🏆 Phase 1: Foundations (Month 1) 
-- Status: 100% COMPLETED AND MASTERED ✅
+## 🏆 Phase 1: Foundations (Month 1) ✅
+## 🏆 Phase 2: Building the UI (Month 2) ✅
+- Sprint Ticket UI-001 (Tech Stack Section): Completed independently and optimized via Code Review. ✅
 
-## 🏗 Phase 2: Building the UI (Month 2)
-### Module 1: The SaaS Hero Section
-- Lesson 1: Structural Layout (Two-Column Flexbox) ✅
-- Lesson 2: Typography & Visual Hierarchy ✅
-- Lesson 3: Images & Constraints ✅
-- Status: Completed ✅
-
-### Module 2: The Project Grid
-- Lesson 1: Introduction to CSS Grid (2D Layouts) ✅
-- Lesson 2: Component Architecture & Typography ✅
-- Lesson 3: Responsive Design (Media Queries) ✅
-- Status: Completed ✅
-
-### Module 3: The Contact Form
-- Lesson 1: Form Inputs & HTML Architecture
-- Status: Not Started (Next Up)
+## 🚀 Phase 3: Interactivity & Deployment (Month 3)
+### Module 1: DOM Manipulation (JavaScript)
+- Lesson 1: Introduction to the DOM (Proof of Life) ✅
+- Lesson 2: DOM Selection & Event Listeners
+- Status: In Progress ⏳
+### Module 2: Making the Navigation Work
+- Status: Not Started
+### Module 3: Live Internet Deployment
+- Status: Not Started
 
 ---
 
 ## Current Focus
-- Phase: 2
-- Module: 3
-- Lesson: 1 (The Contact Form)
-- Activity: Paused for the day. Next session will begin with drafting the HTML form architecture.
+- Phase: 3
+- Module: 1
+- Lesson: 2 (DOM Selection & Event Listeners)
+- Activity: Transitioning to JavaScript. Writing the `addEventListener` logic for the "Hire Me" button.
 - Confidence Level (1-10): 10 
-- Last Updated: 2026-02-17
+- Last Updated: 2026-02-24
 
 ---
 
 ## Portfolio Progress
 - Feature: Project 1 - Professional Portfolio Website (SaaS Style) 
-- Status: Navigation, Hero Section, and Project Grid are fully built, styled, and mobile-responsive!
+- Status: Visual UI completely finished, including the newly engineered Tech Stack component. JavaScript engine is running and ready for logic.
