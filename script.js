@@ -23,3 +23,21 @@ submitBtn.addEventListener('click', function(event) {
     }
 
 })
+
+fetch('https://api.github.com/users/marcnz0426-hub/repos')
+    .then(response => response.json())
+    .then(data => {
+        const projectsSection = document.getElementById('github-projects');
+        data.forEach(repo => {
+            const projectCard = document.createElement('div');
+            projectCard.classList.add('project-card');
+            projectCard.innerHTML = `
+                <img src="https://placehold.co/300x200?text=${repo.name}" alt="${repo.name}">
+                <h3>${repo.name}</h3>
+                <p>${repo.description}</p>
+                <a href="${repo.html_url}" target="_blank">View Project</a>
+            `;
+            projectsSection.appendChild(projectCard);
+        });
+    })
+    .catch(error => console.error(error));
