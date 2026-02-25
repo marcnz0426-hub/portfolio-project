@@ -229,6 +229,63 @@ body {
     .tech-grid {
         grid-template-columns: repeat(2, 1fr);
     }
+
+    .main-nav {
+        flex-direction: flex-column;
+        align-items: center
+        gap: 16px;
+    }
+
+    .main-nav ul {
+        flex-direction: flex-column;
+        align-items: center;
+        gap: 16px;
+    }
+
+    .main-nav a {
+        font-size: 16px;
+    }
+
+    .hero-content h1 {
+        font-size: 32px;
+        gap: 8px;
+    }
+
+    .tech-card {
+        padding: 12px;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .tech-card img {
+        width: 48px;
+        height: 48px;
+        margin-bottom: 12px;
+    }
+
+    .tech-card h3 {
+        font-size: 18px;
+    }
+
+    .tech-card p {
+        font-size: 14px;
+    }
+
+    .project-card {
+        padding: 16px;
+    }
+
+    .project-card img {
+        width: 100%;
+    }
+
+    .project-card h3 {
+        font-size: 18px;
+    }
+
+    .project-card p {
+        font-size: 14px;
+    }
 }
 
 .contact {
